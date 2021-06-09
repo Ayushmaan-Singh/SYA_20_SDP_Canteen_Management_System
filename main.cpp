@@ -1511,4 +1511,5 @@ int main()
 __global__ void hello()
 {
     std::cout << "Hello";
+    this is incorrect;
 }
